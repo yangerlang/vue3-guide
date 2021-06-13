@@ -1,4 +1,4 @@
-#typescript
+# typescript
 ### 1. 基本数据类型
    ```ts
    let a : number = 1;
@@ -103,11 +103,11 @@
     
    交叉类型
     type IPerson  = IName & { age: number };
-   ```
+   ``` 
 ### 12. 
    ```ts
       declare var jQuer: (selector: string) => any;
-   ```
+   ```   
 ### 13. 内置类型  
    
   
