@@ -48,7 +48,7 @@
  }
 ### 6. 类class
    static, public, private, protected, readonly
-### 7. 类和 interface 继承
+7. 类和 interface 继承
    interface Radio {
      switchRadio(trigger: boolean): void;
    }
