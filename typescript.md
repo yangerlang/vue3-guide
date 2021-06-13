@@ -64,7 +64,7 @@
    }
 
   const enum Direction{}
-9. 泛型 generics
+### 9. 泛型 generics
    function ech<T>(args: T): T {
      return arg
    }
