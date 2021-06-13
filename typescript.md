@@ -28,7 +28,7 @@
     (x: number, y: number, z?: number): number
   }
   let add2: ISum = add;
-5. union types
+### 5. union types
   let numberOrString: number | string;
   numberOrString.toString();
   
