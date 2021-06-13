@@ -6,7 +6,7 @@
 ### 2. 数组和元组
    let arr: number[] = [1, 2, 3];
    let arr2: [string, number] = ['string', 12];
-3. 接口 interface
+### 3. 接口 interface
    interface home {
      readOnly id: number,
      name: string,
