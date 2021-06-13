@@ -1,7 +1,9 @@
-1. 基本数据类型
+### 1. 基本数据类型
+   ```js
    let a : number = 1;
    let str: string = 'abc';
-2. 数组和元组
+  ```
+### 2. 数组和元组
    let arr: number[] = [1, 2, 3];
    let arr2: [string, number] = ['string', 12];
 3. 接口 interface
