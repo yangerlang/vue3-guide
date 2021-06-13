@@ -46,7 +46,7 @@
   } else {
    return input.toString().length
  }
-6. 类class
+### 6. 类class
    static, public, private, protected, readonly
 7. 类和 interface 继承
    interface Radio {
