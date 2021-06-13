@@ -1,5 +1,5 @@
 ### 1. 基本数据类型
-   ```js
+   ```ts
    let a : number = 1;
    let str: string = 'abc';
   ```
@@ -12,7 +12,7 @@
      name: string,
      age?: number
    }
-4. 函数function
+### 4. 函数function
    function add(x: number, y: number): number {
 	return x + y;
    }
