@@ -55,7 +55,7 @@
    class car implements Radio {
    switchRadio(trigger: boolean): void {
    }
-8. enum枚举  常量枚举 计算枚举
+### 8. enum枚举  常量枚举 计算枚举
    enum Direction {
     up,
     down,
