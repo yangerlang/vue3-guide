@@ -98,7 +98,7 @@
    }
    ```
 ### 11. 类型别名
-    ```ts
+   ```ts
     let sum: (x: number, y: nuber) => number;
     
    交叉类型
