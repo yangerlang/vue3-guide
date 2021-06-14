@@ -56,9 +56,7 @@
  }
    ```
 ### 6. 类class
-   ```ts
-   static, public, private, protected, readonly
-   ```
+   `static, public, private, protected, readonly`
 ### 7. 类和 interface 继承
    ```ts
    interface Radio {
